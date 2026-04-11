@@ -1,19 +1,10 @@
 <h1 align="center">👋 Olá, eu sou o Felipe Coelho!</h1>
 
 <p align="center">
-  🎓 Estudante de Técnico em Informática <br>
-  ☕ Desenvolvedor Java em evolução constante <br>
+  🎓 Técnico em Informática <br>
+  ☕ Desenvolvedor Front-end em evolução constante <br>
   🎯 Apaixonado por tecnologia, edição e criatividade <br>
 </p>
-
----
-
-### 🧠 Sobre mim
-
-- 🌱 Atualmente focado em me aperfeiçoar em **Java** e desenvolvimento web  
-- 🎬 Experiência com edição de vídeo, tratamento de áudio e conteúdo digital  
-- 💼 Sempre aberto a novas oportunidades e colaborações  
-- 🧩 Curioso por tudo que envolve design, código e impacto social  
 
 ---
 
@@ -26,6 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="Git" />
 </div>
 

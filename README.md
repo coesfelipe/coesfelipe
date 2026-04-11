@@ -1,9 +1,9 @@
 <h1 align="center">👋 Olá, eu sou o Felipe Coelho!</h1>
 
 <p align="center">
-  🎓 Técnico em Informática <br>
-  ☕ Desenvolvedor Front-end em evolução constante <br>
-  🎯 Apaixonado por tecnologia, edição e criatividade <br>
+  Técnico em Informática <br>
+  Desenvolvedor Front-end em evolução constante <br>
+  Apaixonado por tecnologia, edição e criatividade <br>
 </p>
 
 ---
@@ -19,15 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="Git" />
-</div>
-
----
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coe-felipe&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coe-felipe&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 ---

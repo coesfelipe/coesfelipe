@@ -2,7 +2,7 @@
 
 <p align="center">
   Técnico em Informática <br>
-  Desenvolvedor Front-end em evolução constante <br>
+  Desenvolvedor FullStack em evolução constante <br>
   Apaixonado por tecnologia, edição e criatividade <br>
 </p>
 

@@ -1,74 +1,99 @@
-```md
-<h1 align="center">👋 Olá, eu sou o Felipe Coelho</h1>
+<h1 align="center">Olá! 👋 Eu sou o Felipe Coelho</h1>
 
 <h3 align="center">
-💻 Desenvolvedor Full Stack • ☁️ AWS • ☕ Java • 🟢 Node.js • ⚛️ React
+💻 Full Stack Developer • ☕ Java • 🟢 Node.js • ⚛️ React • ☁️ AWS
 </h3>
 
 <p align="center">
-🎓 Estudante de Engenharia da Computação <br>
-💼 Técnico em Informática pelo IFBA <br>
-🚀 Há mais de <strong>4 anos</strong> estudando programação e desenvolvendo projetos para evoluir como Engenheiro de Software.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;4%2B+anos+estudando+programa%C3%A7%C3%A3o;Java+%7C+Node.js+%7C+React+%7C+AWS;Sempre+aprendendo+algo+novo." />
 </p>
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Ao longo dos últimos **4 anos**, venho estudando programação de forma consistente, transformando conhecimento em projetos práticos e buscando evoluir continuamente como desenvolvedor.
-
-Meu principal objetivo é construir aplicações modernas, escaláveis e de alta qualidade, utilizando as melhores práticas de desenvolvimento e arquitetura de software.
+- 🎓 Estudante de **Engenharia da Computação**
+- 💼 Técnico em Informática pelo **IFBA**
+- 📚 **Mais de 4 anos estudando programação**
+- 💻 Desenvolvedor **Full Stack**
+- 🌎 Buscando minha primeira oportunidade como Desenvolvedor
 
 ---
 
-## 🛠️ Stack Principal
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,nodejs,react,js,html,css,aws,mysql,git,github,vscode,figma&perline=6"/>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=coesfelipe&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coesfelipe&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=coesfelipe&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Minha Jornada
+
+```text
+2022 ───────► Início dos estudos em programação
+
+2023 ───────► Técnico em Informática (IFBA)
+
+2024 ───────► Desenvolvimento Web e Projetos Full Stack
+
+2025 ───────► Java • Node.js • React • SQL
+
+2026 ───────► Engenharia da Computação • AWS
+````
+
+---
+
+# 🎯 Objetivo
+
+Construir aplicações modernas, escaláveis e performáticas utilizando **Java**, **Node.js**, **React**, **SQL** e **AWS**, sempre buscando evolução constante e boas práticas de Engenharia de Software.
+
+---
+
+# 🌐 Conecte-se comigo
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,nodejs,react,js,html,css,aws,mysql,git,github,vscode,figma" />
+<a href="https://linkedin.com/in/SEU-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://SEU-PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:SEUEMAIL">
+<img src="https://img.shields.io/badge/E-mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-## 💡 Atualmente estudando
-
-- ☁️ AWS Cloud
-- ☕ Java & Spring Boot
-- 🟢 Node.js
-- ⚛️ React
-- 🗄️ SQL
-- 🏗️ Arquitetura de Software
-
----
-
-## 📈 GitHub Stats
-
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=coesfelipe&show_icons=true&theme=tokyonight&hide_border=true)
+### 💡 *"A melhor forma de aprender é construindo."*
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=coesfelipe&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=coesfelipe&layout=compact&theme=tokyonight&hide_border=true)
+⭐ Obrigado por visitar meu perfil!
 
 </div>
-
----
-
-## 🎯 Objetivo
-
-Atuar como **Desenvolvedor Full Stack**, criando aplicações robustas e escaláveis com **Java**, **Node.js**, **React**, **SQL** e **AWS**, sempre buscando aprender novas tecnologias e entregar soluções de qualidade.
-
----
-
-<div align="center">
-
-### 📫 Vamos nos conectar!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU-PORTFOLIO)
-
-</div>
-```

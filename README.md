@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou o Felipe Coelho</h1>
 
 <h3 align="center">
-💻 Full Stack Developer • ☕ Java • 🟢 Node.js • ⚛️ React • ☁️ AWS
+💻 Engenharia de Software • ☕ Java • 🟢 Node.js • ⚛️ React • ☁️ AWS
 </h3>
 
 <p align="center">
@@ -45,22 +45,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=coesfelipe&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 📈 Minha Jornada
-
-```text
-2022 ───────► Início dos estudos em programação
-
-2023 ───────► Técnico em Informática (IFBA)
-
-2024 ───────► Desenvolvimento Web e Projetos Full Stack
-
-2025 ───────► Java • Node.js • React • SQL
-
-2026 ───────► Engenharia da Computação • AWS
-````
 
 ---
 

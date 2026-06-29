@@ -12,7 +12,7 @@
 
 # 🚀 Sobre mim
 
-- 🎓 Estudante de **Engenharia da Computação**
+- 🎓 Estudante de **Engenharia da Computação** pela FAINOR
 - 💼 Técnico em Informática pelo **IFBA**
 - 📚 **Mais de 4 anos estudando programação**
 - 💻 Desenvolvedor **Full Stack**

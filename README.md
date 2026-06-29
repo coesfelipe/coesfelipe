@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou o Felipe Coelho</h1>
+<h1 align="center">Olá! 👋 Me chamo Felipe Coelho</h1>
 
 <h3 align="center">
 💻 Engenharia de Software • ☕ Java • 🟢 Node.js • ⚛️ React • ☁️ AWS

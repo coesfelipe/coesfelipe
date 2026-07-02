@@ -48,12 +48,6 @@
 
 ---
 
-# 🎯 Objetivo
-
-Construir aplicações modernas, escaláveis e performáticas utilizando **Java**, **Node.js**, **React**, **SQL** e **AWS**, sempre buscando evolução constante e boas práticas de Engenharia de Software.
-
----
-
 # 🌐 Conecte-se comigo
 
 <p align="center">

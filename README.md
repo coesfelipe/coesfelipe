@@ -1,12 +1,8 @@
 <h1 align="center">Olá! 👋 Me chamo Felipe Coelho</h1>
 
 <h3 align="center">
-💻 Engenharia de Software • ☕ Java • 🟢 Node.js • ⚛️ React • ☁️ AWS
+💻 Engenheiro da Computação • ☕ Java • 🟢 Node.js • ⚛️ React • ☁️ AWS
 </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;4%2B+anos+estudando+programa%C3%A7%C3%A3o;Java+%7C+Node.js+%7C+React+%7C+AWS;Sempre+aprendendo+algo+novo." />
-</p>
 
 ---
 

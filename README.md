@@ -1,10 +1,8 @@
 <h1 align="center">Olá! 👋 Me chamo Felipe Coelho</h1>
 
 <h3 align="center">
-💻 Engenheiro da Computação • ☕ Java • 🟢 Node.js • ⚛️ React • ☁️ AWS
+💻 Engenheiro da Computação • ☕ Java • 🟢 SpringBoot • ⚛️ React • ☁️ AWS
 </h3>
-
----
 
 # 🚀 Sobre mim
 

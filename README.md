@@ -14,7 +14,7 @@
 
 # 💻 Tech Stack
 
-<div align="center">
+<div align="center" margin-top=3rem>
 
 <img src="https://skillicons.dev/icons?i=java,nodejs,react,js,html,css,aws,mysql,git,github,vscode,figma&perline=6"/>
 

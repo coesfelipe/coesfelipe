@@ -12,14 +12,6 @@
 
 ---
 
-# 💻 Tech Stack
-
-<div align="center" margin-top=3rem>
-
-<img src="https://skillicons.dev/icons?i=java,nodejs,react,js,html,css,aws,mysql,git,github,vscode,figma&perline=6"/>
-
-</div>
-
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=coesfelipe&theme=tokyonight&hide_border=true"/>

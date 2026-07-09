@@ -1,10 +1,8 @@
+# 🚀 Sobre mim
+
 <h3 align="center">
 💻 Engenheiro da Computação • ☕ Java • 🟢 SpringBoot • ⚛️ React • ☁️ AWS
 </h3>
-
----
-
-# 🚀 Sobre mim
 
 - 🎓 Estudante de **Engenharia da Computação** pela FAINOR
 - 💼 Técnico em Informática pelo **IFBA**
@@ -21,10 +19,6 @@
 <img src="https://skillicons.dev/icons?i=java,nodejs,react,js,html,css,aws,mysql,git,github,vscode,figma&perline=6"/>
 
 </div>
-
----
-
-# 📊 GitHub Stats
 
 <div align="center">
 

@@ -29,16 +29,6 @@
 
 ---
 
-## 🛠️ Tecnologias
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,java,python,mysql,postgres,git,github,docker,vscode&perline=8" alt="Tecnologias"/>
-</p>
-
-> Ajuste a lista acima conforme o que você realmente usa. Os nomes disponíveis estão em [skillicons.dev](https://skillicons.dev).
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">

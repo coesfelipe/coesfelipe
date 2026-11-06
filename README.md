@@ -16,22 +16,10 @@
 
 - 🎓 Cursando **Engenharia da Computação** na FAINOR
 - 💼 **Técnico em Informática** pelo IFBA
-- 👨‍💻 **Líder Administrativo do NPEC** e Estagiário na FAINOR
-- 📚 **+4 anos** estudando e aplicando desenvolvimento de software
-- 💻 Foco em arquitetura **Full Stack**, APIs RESTful e modelagem de banco de dados
-- 🌎 **Buscando oportunidades** como Desenvolvedor Full Stack / Backend (Junior ou Estágio)
-- 🌱 Aperfeiçoando competências em **Docker, NestJS, Spring Boot e Testes Automatizados**
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Frameworks:**
-- `Java` (Spring Boot) | `TypeScript` / `JavaScript` (NestJS, Node.js)
-- `Angular` | `React` | `Tailwind CSS`
-
-**Database & DevOps:**
-- `PostgreSQL` | `TypeORM` | `Docker` | `Git / GitHub`
+- 📚 **+4 anos** estudando e praticando desenvolvimento de software
+- 💻 Foco em desenvolvimento **Full Stack**, do front-end ao banco de dados
+- 🌎 **Buscando oportunidades** como Desenvolvedor Full Stack / Backend
+- 🌱 Aprendendo agora: testes automatizados, Docker e boas práticas de arquitetura
 
 ---
 
@@ -47,7 +35,7 @@
 
 ## 🤝 Vamos conversar?
 
-Estou aberto a novas conexões, projetos e oportunidades.  
+Estou aberto a novas conexões, colaborações e oportunidades.  
 Fique à vontade para me mandar uma mensagem no [LinkedIn](https://www.linkedin.com/in/coesfelipe) ou por [e-mail](mailto:felipecoes08@gmail.com).
 
 <p align="center">

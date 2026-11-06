@@ -54,18 +54,6 @@
 
 ---
 
-## 📌 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [**Nome do projeto 1**](https://github.com/coesfelipe/repositorio-1) | Uma frase sobre o que ele resolve | `Angular` `TypeScript` |
-| [**Nome do projeto 2**](https://github.com/coesfelipe/repositorio-2) | Uma frase sobre o que ele resolve | `Node.js` `MySQL` |
-| [**Nome do projeto 3**](https://github.com/coesfelipe/repositorio-3) | Uma frase sobre o que ele resolve | `React` `API REST` |
-
-> Troque pelos seus repositórios reais. Se quiser, também dá para fixar os 6 melhores no seu perfil do GitHub.
-
----
-
 ## 🤝 Vamos conversar?
 
 Estou aberto a vagas, estágios e projetos em que eu possa aprender e contribuir.

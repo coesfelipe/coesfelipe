@@ -25,16 +25,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=coesfelipe&theme=tokyonight&hide_border=true" alt="Sequência de contribuições"/>
-
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=coesfelipe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coesfelipe&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
-
-</div>
+<div align="center"> <img src="https://streak-stats.demolab.com/?user=coesfelipe&theme=tokyonight&hide_border=true" alt="Sequência de contribuições"/> <br/> <img width="49%" src="https://raw.githubusercontent.com/coesfelipe/coesfelipe/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas"/> <img width="49%" src="https://raw.githubusercontent.com/coesfelipe/coesfelipe/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas"/> </div>
 
 ---
 

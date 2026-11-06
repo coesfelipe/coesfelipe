@@ -23,17 +23,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=coesfelipe&theme=tokyonight&hide_border=true" alt="Sequência de contribuições">
-  <br><br>
-  <img src="https://raw.githubusercontent.com/coesfelipe/coesfelipe/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas" width="48%">
-  <img src="https://raw.githubusercontent.com/coesfelipe/coesfelipe/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas" width="48%">
-</div>
-
----
-
 ## 🤝 Vamos conversar?
 
 Estou aberto a novas conexões, colaborações e oportunidades.  

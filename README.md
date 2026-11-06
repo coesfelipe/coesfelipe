@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Felipe 👋</h1>
 
 <p align="center">
-  Desenvolvedor <b>Full Stack</b> em formação, apaixonado por transformar problemas reais em software que funciona.
+  Desenvolvedor <b>Full Stack</b> | Bacharelando em Engenharia da Computação
 </p>
 
 <p align="center">
@@ -16,23 +16,39 @@
 
 - 🎓 Cursando **Engenharia da Computação** na FAINOR
 - 💼 **Técnico em Informática** pelo IFBA
-- 📚 **Mais de 4 anos** estudando e praticando programação
-- 💻 Foco em desenvolvimento **Full Stack**, do front-end ao banco de dados
-- 🌎 **Buscando minha primeira oportunidade** como desenvolvedor
-- 🌱 Aprendendo agora: testes automatizados, Docker e boas práticas de arquitetura
+- 👨‍💻 **Líder Administrativo do NPEC** e Estagiário na FAINOR
+- 📚 **+4 anos** estudando e aplicando desenvolvimento de software
+- 💻 Foco em arquitetura **Full Stack**, APIs RESTful e modelagem de banco de dados
+- 🌎 **Buscando oportunidades** como Desenvolvedor Full Stack / Backend (Junior ou Estágio)
+- 🌱 Aperfeiçoando competências em **Docker, NestJS, Spring Boot e Testes Automatizados**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:**
+- `Java` (Spring Boot) | `TypeScript` / `JavaScript` (NestJS, Node.js)
+- `Angular` | `React` | `Tailwind CSS`
+
+**Database & DevOps:**
+- `PostgreSQL` | `TypeORM` | `Docker` | `Git / GitHub`
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center"> <img src="https://streak-stats.demolab.com/?user=coesfelipe&theme=tokyonight&hide_border=true" alt="Sequência de contribuições"/> <br/> <img width="49%" src="https://raw.githubusercontent.com/coesfelipe/coesfelipe/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas"/> <img width="49%" src="https://raw.githubusercontent.com/coesfelipe/coesfelipe/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas"/> </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=coesfelipe&theme=tokyonight&hide_border=true" alt="Sequência de contribuições"/><br/><br/>
+  <img src="https://raw.githubusercontent.com/coesfelipe/coesfelipe/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas" width="48%"/>
+  <img src="https://raw.githubusercontent.com/coesfelipe/coesfelipe/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas" width="48%"/>
+</div>
 
 ---
 
 ## 🤝 Vamos conversar?
 
-Estou aberto a vagas, estágios e projetos em que eu possa aprender e contribuir.
-Me chame pelo [LinkedIn](https://www.linkedin.com/in/coesfelipe) ou por [e-mail](mailto:felipecoes08@gmail.com).
+Estou aberto a novas conexões, projetos e oportunidades.  
+Fique à vontade para me mandar uma mensagem no [LinkedIn](https://www.linkedin.com/in/coesfelipe) ou por [e-mail](mailto:felipecoes08@gmail.com).
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=100&section=footer" alt="Rodapé"/>

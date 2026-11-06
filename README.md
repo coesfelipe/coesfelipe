@@ -31,3 +31,7 @@
 
 Estou aberto a novas conexões, colaborações e oportunidades.  
 Fique à vontade para me mandar uma mensagem no [LinkedIn](https://www.linkedin.com/in/coesfelipe) ou por [e-mail](mailto:felipecoes08@gmail.com).
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=footer" alt="Rodapé" width="100%">
+</p>

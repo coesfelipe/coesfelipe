@@ -5,14 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Engenharia_da_Computa%C3%A7%C3%A3o-FAINOR-1f6feb?style=for-the-badge" alt="Engenharia da Computação - FAINOR"/>
-  <img src="https://img.shields.io/badge/T%C3%A9cnico_em_Inform%C3%A1tica-IFBA-2ea043?style=for-the-badge" alt="Técnico em Informática - IFBA"/>
-  <img src="https://img.shields.io/badge/Aberto_a-Primeira_Oportunidade-f78166?style=for-the-badge" alt="Aberto a oportunidades"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/></a>
+  <a href="https://www.linkedin.com/in/coesfelipe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:felipecoes08@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/></a>
   <a href="https://github.com/coesfelipe"><img src="https://img.shields.io/github/followers/coesfelipe?label=Seguidores&style=flat-square&logo=github" alt="Seguidores"/></a>
 </p>
 
@@ -47,7 +41,7 @@
 ## 🤝 Vamos conversar?
 
 Estou aberto a vagas, estágios e projetos em que eu possa aprender e contribuir.
-Me chame pelo [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO) ou por [e-mail](mailto:seuemail@exemplo.com).
+Me chame pelo [LinkedIn](https://www.linkedin.com/in/coesfelipe) ou por [e-mail](mailto:felipecoes08@gmail.com).
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=100&section=footer" alt="Rodapé"/>
